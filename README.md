@@ -22,7 +22,7 @@ Web demo is available only for non-AR version, due to lack of WebAR support (e.g
 
 ### Human occlusion
 
-![wiHumanOcclusion](./docs/pics/wiHumanOcclusion.png)
+![wiHumanOcclusion](./docs/pics/wiHumanOcclusion.PNG)
 
 ### Image detection
 
