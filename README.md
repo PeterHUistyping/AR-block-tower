@@ -16,7 +16,7 @@ Web demo is available only for non-AR version, due to lack of WebAR support (e.g
 
 ## Technical report
 
-TODO: The technical report is available [here](./docs/technical_report.pdf).
+The technical report is available [here](./docs/technical_report.pdf).
 
 ## How to play
 
