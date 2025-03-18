@@ -1,6 +1,6 @@
 # Interactive AR block tower
 
-This repo is my course project for [Extended Reality (XR) @ Cambridge](https://www.cl.cam.ac.uk/teaching/2425/ER/), where I design a video based AR application.
+This repo is my project for [Extended Reality (XR)](https://www.cl.cam.ac.uk/teaching/2425/ER/) module @ University of Cambridge, where I design a video based AR application.
 
 ![Conclusion](./docs/pics/conclusion.png)
 
@@ -14,6 +14,10 @@ The mobile app is available for Android only. Please download the app from the [
 
 Web demo is available only for non-AR version, due to lack of WebAR support (e.g. plane detection) in the Unity Engine. Please rebuild the project for your platform to test the full AR version.
 
+## Technical report
+
+TODO: The technical report is available [here](./docs/technical_report.pdf).
+
 ## How to play
 
 1. Grant camera permissions
@@ -26,19 +30,12 @@ Web demo is available only for non-AR version, due to lack of WebAR support (e.g
 
 ### Image detection
 
-Please change the tracked image in the Unity~
+Please change the tracked image in the Unity Editor, where the main scene is [here](./Assets/Scenes/MainScene.unity).
 
 ![image-detection](./docs/pics/image-detection.png)
 
 
-## Technical report
-
-TODO: The technical report is available [here](./docs/technical_report.pdf).
-
-
-
-
 ## Acknowledgement
-Unity AR Foundation, tutorials, and the Unity Asset Store.
+Unity AR Foundation, related tutorials, and the Unity Asset Store.
 
 Music: Town of Windhill.
